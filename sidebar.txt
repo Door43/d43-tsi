@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsi:home|Door43 (tsi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsi|d43-tsi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsi/archive/master.zip|d43-tsi.zip]]
+
+**Recent Changes**
+{{changes>ns = tsi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsi|Ethnologue data]]
+
